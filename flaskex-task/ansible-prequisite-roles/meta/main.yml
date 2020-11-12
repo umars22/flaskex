@@ -1,0 +1,15 @@
+galaxy_info:
+  author: umar sirojev  
+  description: downlaoad packages
+  company: Bosch
+
+  license: MIT
+
+  min_ansible_version: 2.9
+
+  galaxy_tags:
+      - perequisites
+
+dependencies: []
+
+  

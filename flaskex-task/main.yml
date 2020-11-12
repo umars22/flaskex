@@ -1,0 +1,26 @@
+- hosts: web
+  tasks:
+  
+  - name: install packages
+    import_role: 
+      name: ansible-prequisite-roles
+      
+
+  - name: clone repo 
+    git:
+      repo: https://github.com/anfederico/Flaskex
+      dest: /var/www/Flaskex/
+  
+  
+  - name: pip install -r requirements.txt
+    pip:
+      requirements: /var/www/Flaskex/requirements.txt
+      executable: pip3
+
+
+  - name: start app.py
+    shell: " nohup python3 /var/www/Flaskex/app.py &"
+
+
+
+  
