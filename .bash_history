@@ -285,3 +285,112 @@ pip2 -v
 pip2 -V
 pip3 -V
 cd ..
+ssh centos@52.91.124.129
+sudo vi /etc/ansible/hosts 
+ssh centos@52.91.124.129
+ls
+git add .
+git init
+git add .
+git remote
+git remote remove
+git remote remove pet-clinic
+ls
+git remote remove
+git remote 
+git remote add 
+git remote add flaskex git@github.com:umars22/flaskex.git
+ls
+git remote
+git commit -m "flakex" /flaskex-task
+git commit -m "flakex" flaskex-task
+git push
+git push flaskex git@github.com:umars22/flaskex.git
+git pull
+git pull git@github.com:umars22/flaskex.git
+git push 
+git push git@github.com:umars22/flaskex.git
+git add
+git add .
+git pull 
+git commit "latest" flaskex-task
+git commit "latest" flaskex-task/
+git commit -m "latest" flaskex-task
+ls
+git pull 
+git pull git@github.com:umars22/flaskex.git
+git push
+git remote
+git push flaskex
+git push 
+git remote add https://github.com/umars22/flaskex.git
+ls
+git remote
+git add .
+git status
+git log\
+git branch
+git pull origin
+git push 
+git push flaskex
+git push master
+git push master origin
+git pull origin
+git remote add origin git@github.com:umars22/flaskex.git
+git remtoe
+git remote
+git pull
+git pull faskex master
+git pull
+git pull flaskex
+git push
+git pull flaskex master
+git commit -m "late" flaskex-task
+git push
+git push flaskex
+git push master
+git remote remove origin
+git remote remove flaskex
+git remtoe
+git remote
+git remote add  https://github.com/settings/keys/47668392
+git remote add -m git@github.com:umars22/flaskex.git
+git remote add -m flaskex git@github.com:umars22/flaskex.git
+git remote add flaskex git@github.com:umars22/flaskex.git
+cd flaskex-task/
+git commit -m "task" 
+git push
+git push flaskex
+git config
+git push
+git add .
+git push
+git pull
+git pull git@github.com:umars22/flaskex.git
+git push
+git push git@github.com:umars22/flaskex.git
+ls
+cd
+ls
+git commit -m "flaskex" flaskex-task/
+git commit -m "flaskex" flaskex-task
+git push
+git push flaskex git@github.com:umars22/flaskex.git
+git push flaskex-task git@github.com:umars22/flaskex.git
+git push git@github.com:umars22/flaskex.git
+git push flaskex git@github.com:umars22/flaskex.git
+git inti
+git inkit
+git init
+git add.
+git add .
+git remote
+git push
+git push flaskex
+git pull flaskex git@github.com:umars22/flaskex.git
+git commit -m "lol" flaskex-task
+git push
+git push origin master
+git push git push origin master
+git push origin git@github.com:umars22/flaskex.git master
+ansible-playbook main.yml -b

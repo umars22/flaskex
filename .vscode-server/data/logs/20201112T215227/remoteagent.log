@@ -13,3 +13,7 @@
 [2020-11-12 21:52:28.254] [remoteagent] [info] [127.0.0.1][f869587b][ExtensionHostConnection] New connection established.
 [2020-11-12 21:52:28.320] [remoteagent] [info] [127.0.0.1][f869587b][ExtensionHostConnection] <4735> Launched Extension Host Process.
 [2020-11-12 22:13:55.219] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-11-12 23:22:58.894] [remoteagent] [info] [127.0.0.1][99954909][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-11-12 23:33:37.504] [remoteagent] [info] [127.0.0.1][99954909][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-11-12 23:33:37.505] [remoteagent] [info] [127.0.0.1][99954909][ManagementConnection] The client has reconnected.
+[2020-11-12 23:33:41.176] [remoteagent] [info] [127.0.0.1][f869587b][ExtensionHostConnection] The client has reconnected.
