@@ -1,8 +1,0 @@
----
-# tasks file for ansible-role-openjdk
-
-- name: install openjdk
-  yum:
-    name:
-    - maven
-    - "java-{{ open_jdk_version }}-openjdk"
